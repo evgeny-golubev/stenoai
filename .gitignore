@@ -22,6 +22,7 @@ eggs/
 .eggs/
 lib/
 !app/renderer/src/lib/
+!website/src/lib/
 
 lib64/
 parts/
